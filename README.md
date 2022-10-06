@@ -119,3 +119,11 @@ plt.ylabel('Errors')
 plt.show()
 
 ```
+## OUTPUT:
+![v11](https://user-images.githubusercontent.com/75235704/194220518-5a78a25b-3da3-4a21-a886-1b9700062441.png)
+
+![v22](https://user-images.githubusercontent.com/75235704/194220553-8466bb0a-6387-4963-9056-66a78c761a45.png)
+
+## RESULT:
+Thus,the perceptron for classification using Python is implemented.
+
